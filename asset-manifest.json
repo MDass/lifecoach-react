@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lifecoach-react/static/css/main.7165f5d3.css",
-    "main.js": "/lifecoach-react/static/js/main.344f3e1b.js",
+    "main.js": "/lifecoach-react/static/js/main.f4129f16.js",
     "static/js/787.92f5297a.chunk.js": "/lifecoach-react/static/js/787.92f5297a.chunk.js",
     "static/media/logo.svg": "/lifecoach-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/lifecoach-react/index.html",
     "main.7165f5d3.css.map": "/lifecoach-react/static/css/main.7165f5d3.css.map",
-    "main.344f3e1b.js.map": "/lifecoach-react/static/js/main.344f3e1b.js.map",
+    "main.f4129f16.js.map": "/lifecoach-react/static/js/main.f4129f16.js.map",
     "787.92f5297a.chunk.js.map": "/lifecoach-react/static/js/787.92f5297a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7165f5d3.css",
-    "static/js/main.344f3e1b.js"
+    "static/js/main.f4129f16.js"
   ]
 }
